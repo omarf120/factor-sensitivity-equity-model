@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Raw and processed data
+data/raw/
+data/processed/
+
+#histograms
+outputs/tables/histograms_raw
+outputs/tables/histograms_derived
+outputs/tables/winsor_trunc_summary_raw_submit.xlsx
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Scratch notebooks
+notebooks/scratch/
