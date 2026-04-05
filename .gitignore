@@ -9,6 +9,7 @@ data/processed/
 outputs/tables/histograms_raw
 outputs/tables/histograms_derived
 outputs/tables/winsor_trunc_summary_raw_submit.xlsx
+outputs/tables/ic_series
 
 # macOS junk
 .DS_Store
